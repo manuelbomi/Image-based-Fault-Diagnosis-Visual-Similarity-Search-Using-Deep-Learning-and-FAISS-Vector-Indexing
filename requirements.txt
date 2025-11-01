@@ -1,0 +1,9 @@
+tensorflow>=2.8
+numpy
+pillow
+faiss-cpu
+scikit-learn
+streamlit
+opencv-python
+pandas
+tqdm
